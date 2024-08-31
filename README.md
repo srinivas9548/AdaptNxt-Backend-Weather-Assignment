@@ -1,5 +1,5 @@
 ### Published Backend Link
-https://adapt-nxt-backend-weather-srinivas-assignment.vercel.app
+https://adapt-nxt-backend-weather-assignment.vercel.app/
 
 # Weather Information Service
 
