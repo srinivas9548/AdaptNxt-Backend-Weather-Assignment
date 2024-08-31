@@ -1,3 +1,6 @@
+### Published Backend Link
+https://adapt-nxt-backend-weather-srinivas-assignment.vercel.app
+
 # Weather Information Service
 
 This project is a simple Node.js application that fetches and displays weather information based on user input (city or location) using the OpenWeatherMap API.
